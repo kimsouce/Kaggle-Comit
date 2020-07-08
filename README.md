@@ -5,6 +5,6 @@
 
 
 ### Kaggle site: https://www.kaggle.com/
-|Compete|My Work|Public Score|Grade|
+|Compete|My Work|Public Score(MSE)|Grade|
 |--------|-------|---------|-------|
 |PUBG Finish Placement Prediction|submit_LinearRegression|0.12899|1412|
