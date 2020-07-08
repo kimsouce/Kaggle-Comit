@@ -1,4 +1,4 @@
-# Kaggle-Comit
+# Kaggle-Commit
 🏅캐글 경진대회 submit 한 코드들🏅
 
 
