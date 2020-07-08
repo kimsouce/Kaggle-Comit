@@ -1,5 +1,7 @@
 # Kaggle-Comit
-캐글 경진대회 submit 한 코드들
+🏅캐글 경진대회 submit 한 코드들🏅
+
+
 
 
 ### Kaggle site: https://www.kaggle.com/
