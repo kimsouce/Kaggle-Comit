@@ -10,4 +10,4 @@
 |PUBG Finish Placement Prediction|submit_LinearRegression|0.12899(MSE)|1412|https://www.kaggle.com/c/pubg-finish-placement-prediction|
 |Bag of Words Meets Bags of Popcorn|07. Kaggle_Bag of Words Meets Bags of Popcorn|0.85360|315|https://www.kaggle.com/c/word2vec-nlp-tutorial?rvi=1|
 |Santander Customer Satisfaction|20200714_submission_xgb_base.csv|0.80922|3711|https://www.kaggle.com/c/santander-customer-satisfaction?rvi=1|
-|Sentiment Analysis|
+|Sentiment Analysis|submission_LSTM.csv|0.63283|220|https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews?rvi=1|
